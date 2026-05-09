@@ -1,5 +1,4 @@
 # CROSS-Pose
-# Framework of our method:
 ## Framework
 ![framework](Fig1.png)
 
