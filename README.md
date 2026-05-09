@@ -1,7 +1,7 @@
 # CROSS-Pose
 # Framework of our method:
 ## Framework
-![framework](zong.png)
+![framework](Fig1.png)
 
 
 
