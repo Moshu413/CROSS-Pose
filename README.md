@@ -10,9 +10,6 @@ Create the conda environment:
 conda env create -f CROSSPose_env.yaml
 ```
 
-## Download Checkpoints  
-We provide checkpoints for the trained models on REAL275 and CAMERA. You can download them from [huggingface](https://huggingface.co/moshu413/CROSS-Pose/tree/main) .
-
 
 ## 📦 Dataset Preparation
 
@@ -36,6 +33,8 @@ data/
 ├── Wild6D/
 ```
 ---
+## Download Checkpoints  
+We provide checkpoints for the trained models on REAL275 and CAMERA. You can download them from [huggingface](https://huggingface.co/moshu413/CROSS-Pose/tree/main) .
 
 ## 🚀 Training
 
