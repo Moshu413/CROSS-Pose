@@ -1,4 +1,4 @@
-# CROSS-Pose
+# CROSS-Pose: Cross-Modal Reasoning of Scale and Structure for Monocular Category-Level 6D Pose Estimation
 ## Framework
 ![framework](Fig1.png)
 
