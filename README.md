@@ -16,18 +16,16 @@ We provide checkpoints for the trained models on REAL275 and CAMERA. You can dow
 
 ## 📦 Dataset Preparation
 
-Our implementation builds upon the codebase of **LaPose**(https://github.com/lolrudy/LaPose).
-
 ### Required datasets:
 
 * **NOCS dataset**
-  Follow the instructions in the LaPose repository.
+  Follow the instructions in the [[LaPose](https://github.com/lolrudy/LaPose)] repository.
 
 * **IVFC map (training only)**
-  Download from: [[LINK](https://drive.google.com/file/d/1kF8ck7EM9mnz6jyySncVUxzXgRxHH9e-/view)]
+  Download from: [[IVFC](https://drive.google.com/file/d/1kF8ck7EM9mnz6jyySncVUxzXgRxHH9e-/view)]
 
 * **Wild6D dataset**
-  Download from: [[LINK](https://github.com/OasisYang/Wild6D)]
+  Download from: [[Wild6D](https://github.com/OasisYang/Wild6D)]
 
 ### Directory structure:
 
@@ -37,7 +35,6 @@ data/
 ├── IVFC/
 ├── Wild6D/
 ```
-
 ---
 
 ## 🚀 Training
