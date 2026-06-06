@@ -1,7 +1,7 @@
 # Semantic and Structural Reasoning for Monocular Category-Level 6D Object Pose Estimation
 ## Framework
-![framework](Fig1.png)
-
+![framework](fig1.png)
+![framework](fig2.png)
 ## 🔧 Installation
 
 Create the conda environment:
