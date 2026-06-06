@@ -1,6 +1,7 @@
 # Semantic and Structural Reasoning for Monocular Category-Level 6D Object Pose Estimation
 ## Framework
 ![framework](fig1.png)
+### SAGR model
 ![framework](fig2.png)
 ## 🔧 Installation
 
